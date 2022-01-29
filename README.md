@@ -16,8 +16,8 @@
    </br>
   
 ## Languages
-<a href="" target="_blank"><img align="left" alt="HTML5" width="80px" src="https://github.com/varjakw/varjakw/blob/main/python.png" /></a>
-<a href="" target="_blank"><img align="left" alt="CSS3" width="40px" src="https://github.com/varjakw/varjakw/blob/main/java.png" /></a>
+<a href="" target="_blank"><img align="left" alt="HTML5" width="100px" src="https://github.com/varjakw/varjakw/blob/main/python.png" /></a>
+<a href="" target="_blank"><img align="left" alt="CSS3" width="60px" src="https://github.com/varjakw/varjakw/blob/main/java.png" /></a>
 
 
 
