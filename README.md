@@ -25,7 +25,7 @@
 <a href="" target="_blank"><img align="left" alt="CSS3" width="60px" src="https://github.com/varjakw/varjakw/blob/main/java.png" /></a>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 -->
-<a href=""><img alt="Email" height = "40px" width="120px"  src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" /></a> &nbsp;
+<a href=""><img alt="Email" height = "40px" width="130px"  src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" /></a> &nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
