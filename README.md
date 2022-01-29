@@ -1,4 +1,8 @@
 # Hello! It's me!
+|           |            | 
+|----------|:-------------:|
+| <img src="https://github.com/varjakw/varjakw/blob/main/bio.svg" width="480" height="270" /> |  <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width="480" height="270" /> |
+
 
 <p float="left">
   <img src="https://github.com/varjakw/varjakw/blob/main/bio.svg" width="480" height="270" />
