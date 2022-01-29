@@ -16,9 +16,17 @@
    </br>
   
 ## Primary Languages
+<!--
 <a href="" target="_blank"><img align="left" alt="HTML5" width="100px" src="https://github.com/varjakw/varjakw/blob/main/python.png" /></a>
 <a href="" target="_blank"><img align="left" alt="CSS3" width="60px" src="https://github.com/varjakw/varjakw/blob/main/java.png" /></a>
-
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+-->
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
    </br>
    </br>
