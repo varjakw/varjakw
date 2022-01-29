@@ -5,12 +5,15 @@
 | <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width="480" height="270" />  |  <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width="480" height="270" /> |
 
 
+  
 ## Socials
-<!-- <a href="" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a> -->
-<a href="https://www.linkedin.com/in/varjak/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/varjakw/varjakw/blob/main/linkedin.svg" />
-<a href="https://instagram.com/varjakw" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/varjakw/varjakw/blob/main/insta.svg" />
+<<a href="mailto:vwolfe@tcd.ie" target="_blank"><img align="left" alt="Varjak | Email" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/email.svg" /></a>
+<a href="https://www.linkedin.com/in/varjak/" target="_blank"><img align="left" alt="Varjak | LinkedIn" width="22px" src="https://github.com/varjakw/varjakw/blob/main/linkedin.svg" />
+<a href="https://instagram.com/varjakw" target="_blank"><img align="left" alt="Varjak | Instagram" width="22px" src="https://github.com/varjakw/varjakw/blob/main/insta.svg" />
 </a>
+</br>
 
+  
   
 ## Languages
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
