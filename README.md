@@ -11,9 +11,9 @@
 <a href="https://www.linkedin.com/in/varjak/" target="_blank"><img align="left" alt="Varjak | LinkedIn" width="40px" src="https://github.com/varjakw/varjakw/blob/main/linkedin.png" /></a>
 <a href="https://instagram.com/varjakw" target="_blank"><img align="left" alt="Varjak | Instagram" width="40px" src="https://github.com/varjakw/varjakw/blob/main/insta.png" /></a>
 -->
-<a href="https://www.linkedin.com/in/varjak/"><img alt="LinkedIn" width="150px" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:vwolfe@tcd.ie"><img alt="Email" width="110px"  src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/abhi_1507"><img alt="Instagram" width="150px"  src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/varjak/"><img alt="LinkedIn" height = "40px" width="150px" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:vwolfe@tcd.ie"><img alt="Email" height = "40px" width="110px"  src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://instagram.com/varjakw"><img alt="Instagram" height = "40px" width="150px"  src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
   </br>
