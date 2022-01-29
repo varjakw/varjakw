@@ -8,11 +8,12 @@
   
 ## Socials
 <a href="mailto:vwolfe@tcd.ie" target="_blank"><img align="left" alt="Varjak | Email" width="40px" src="https://github.com/varjakw/varjakw/blob/main/email.png" /></a>
-<a href="https://www.linkedin.com/in/varjak/" target="_blank"><img align="left" alt="Varjak | LinkedIn" width="26px" src="https://github.com/varjakw/varjakw/blob/main/linkedin.png" /></a>
-<a href="https://instagram.com/varjakw" target="_blank"><img align="left" alt="Varjak | Instagram" width="26px" src="https://github.com/varjakw/varjakw/blob/main/insta.png" /></a>
+<a href="https://www.linkedin.com/in/varjak/" target="_blank"><img align="left" alt="Varjak | LinkedIn" width="40px" src="https://github.com/varjakw/varjakw/blob/main/linkedin.png" /></a>
+<a href="https://instagram.com/varjakw" target="_blank"><img align="left" alt="Varjak | Instagram" width="40px" src="https://github.com/varjakw/varjakw/blob/main/insta.png" /></a>
 
 
-  
+  </br>
+   </br>
   
 ## Languages
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
