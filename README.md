@@ -2,7 +2,7 @@
 <div align="left">
 	<br>
 	<a href="https://github.com/varjakw/varjakw/blob/main/bio.svg">
-		<img src="bio.svg" width="800" height="400">
+		<img src="bio.svg" width="800" height="400" alt="">
 	</a>
 	<br>
 </div>
