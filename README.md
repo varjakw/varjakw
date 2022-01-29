@@ -26,11 +26,10 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 -->
 <a href=""><img alt="Email" height = "40px" width="130px"  src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" /></a> &nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+<a href=""><img alt="Email" height = "40px" width="130px"  src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518" /></a> &nbsp;
+<a href=""><img alt="Email" height = "40px" width="130px"  src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" /></a> &nbsp;
+<a href=""><img alt="Email" height = "40px" width="130px"  src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" /></a> &nbsp;
+<a href=""><img alt="Email" height = "40px" width="130px"  src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" /></a> &nbsp;
 
    </br>
    </br>
