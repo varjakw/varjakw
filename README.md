@@ -15,12 +15,26 @@
   </br>
    </br>
   
-## Primary Languages
-<a href=""><img alt="Python" height = "40px"  src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" /></a> &nbsp;
-<a href=""><img alt="Java" height = "40px"  src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518" /></a> &nbsp;
-<a href=""><img alt="Javascript" height = "40px"  src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" /></a> &nbsp;
-<a href=""><img alt="C" height = "40px"  src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" /></a> &nbsp;
-<a href=""><img alt="Git" height = "40px"  src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" /></a> &nbsp;
+## Languages and Tools
+  <a href=""><img alt="Python" src="https://img.shields.io/badge/-Python-38761d?style=flat-square&logo=python&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="Java" src="https://img.shields.io/badge/-Java-e7e714?style=flat-square&logo=java&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f44336?style=flat-square&logo=javascript&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="C" src="https://img.shields.io/badge/-C-45b8d8?style=flat-square&logo=C&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a> &nbsp;
+</p>
 
    </br>
    </br>
