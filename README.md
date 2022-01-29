@@ -19,7 +19,6 @@
   <a href=""><img alt="React" src="https://img.shields.io/badge/-React-78FA57?style=flat-square&logo=react&logoColor=white" /></a> &nbsp;
   <a href=""><img alt="Docker" src="https://img.shields.io/badge/-Docker-AAFB53?style=flat-square&logo=docker&logoColor=white" /></a> &nbsp;
    <a href=""><img alt="SQL" src="https://img.shields.io/badge/-SQL-EEFC4E?style=flat-square&logo=SQL&logoColor=white" /></a> &nbsp;
-  <a href=""><img alt="matplotlib" src="https://img.shields.io/badge/-matplotlib-FFEF4D?style=flat-square&logo=matplotlib&logoColor=white" /></a> &nbsp;
   <a href=""><img alt="git" src="https://img.shields.io/badge/-Git-FFDA4D?style=flat-square&logo=git&logoColor=white" /></a> &nbsp;
   <a href=""><img alt="html5" src="https://img.shields.io/badge/-HTML5-FEC24E?style=flat-square&logo=html5&logoColor=white" /></a> &nbsp;
   <a href=""><img alt="d3js" src="https://img.shields.io/badge/-D3.js-F8A354?style=flat-square&logo=d3.js&logoColor=white" /></a> &nbsp;
