@@ -7,7 +7,7 @@
 
   
 ## Socials
-<a href="mailto:vwolfe@tcd.ie" target="_blank"><img align="left" alt="Varjak | Email" width="26px" src="https://github.com/varjakw/varjakw/blob/main/email.png" /></a>
+<a href="mailto:vwolfe@tcd.ie" target="_blank"><img align="left" alt="Varjak | Email" width="40px" src="https://github.com/varjakw/varjakw/blob/main/email.png" /></a>
 <a href="https://www.linkedin.com/in/varjak/" target="_blank"><img align="left" alt="Varjak | LinkedIn" width="26px" src="https://github.com/varjakw/varjakw/blob/main/linkedin.svg" /></a>
 <a href="https://instagram.com/varjakw" target="_blank"><img align="left" alt="Varjak | Instagram" width="26px" src="https://github.com/varjakw/varjakw/blob/main/insta.svg" /></a>
 
