@@ -40,8 +40,6 @@
   
   [![Varjak's github stats](https://github-readme-stats.vercel.app/api?username=varjakw&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
 <!-- comment// 
 <p float="left">
   <img src="https://github.com/varjakw/varjakw/blob/main/bio.svg" width="480" height="270" />
@@ -51,12 +49,3 @@
 <img align="left" width="480" height="270" src="https://github.com/varjakw/varjakw/blob/main/bio.svg">
 
 <img align="right" width="480" height="270" src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif">   //comment-->
-
-
-
-
-
-
-
-
-
