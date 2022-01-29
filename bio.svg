@@ -29,6 +29,9 @@
 				}
 
 				h1 {
+					background-image: linear-gradient(60deg, #E21143, #FFB03A);
+  background-clip: text;
+  color: transparent;
 					font-size: 30px;
 					line-height: 1.3;
 					letter-spacing: 5px;
