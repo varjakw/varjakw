@@ -8,9 +8,8 @@
   
 ## Socials
 <<a href="mailto:vwolfe@tcd.ie" target="_blank"><img align="left" alt="Varjak | Email" width="22px" src="https://github.com/varjakw/varjakw/blob/main/email.svg" /></a>
-<a href="https://www.linkedin.com/in/varjak/" target="_blank"><img align="left" alt="Varjak | LinkedIn" width="22px" src="https://github.com/varjakw/varjakw/blob/main/linkedin.svg" />
-<a href="https://instagram.com/varjakw" target="_blank"><img align="left" alt="Varjak | Instagram" width="22px" src="https://github.com/varjakw/varjakw/blob/main/insta.svg" />
-</a>
+<a href="https://www.linkedin.com/in/varjak/" target="_blank"><img align="left" alt="Varjak | LinkedIn" width="22px" src="https://github.com/varjakw/varjakw/blob/main/linkedin.svg" /></a>
+<a href="https://instagram.com/varjakw" target="_blank"><img align="left" alt="Varjak | Instagram" width="22px" src="https://github.com/varjakw/varjakw/blob/main/insta.svg" /></a>
 
 
   
