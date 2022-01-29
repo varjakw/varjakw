@@ -7,7 +7,7 @@
 
 ## Socials
 <a href="https://www.linkedin.com/in/varjak/"><img alt="LinkedIn" height = "40px" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:vwolfe@tcd.ie"><img alt="Email" height = "40px"  src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:vwolfe@tcd.ie"><img alt="Email" height = "40px"  src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/varjakw"><img alt="Instagram" height = "40px"  src="https://img.shields.io/badge/-@varjakw_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 </br>
 
