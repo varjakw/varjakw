@@ -5,15 +5,11 @@
 | <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width="480" height="270" />  |  <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width="480" height="270" /> |
 
 
-  
 ## Socials
 <a href="https://www.linkedin.com/in/varjak/"><img alt="LinkedIn" height = "40px" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:vwolfe@tcd.ie"><img alt="Email" height = "40px"  src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/varjakw"><img alt="Instagram" height = "40px"  src="https://img.shields.io/badge/-@varjakw_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-
-
-  </br>
-   </br>
+</br>
   
 ## Languages and Tools
   <a href=""><img alt="Python" src="https://img.shields.io/badge/-Python-38761d?style=flat-square&logo=python&logoColor=white" /></a> &nbsp;
@@ -35,8 +31,6 @@
   <a href=""><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></a> &nbsp;
   <a href=""><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a> &nbsp;
 </p>
-
-   </br>
    </br>
 
 ## Projects
