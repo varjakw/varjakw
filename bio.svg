@@ -31,10 +31,6 @@
     				-webkit-text-fill-color: transparent; 
   				-moz-text-fill-color: transparent;
 				}
-				
-				.text{
-				font-size: 20px;
-				}
 
 				h1 {
 					font-size: 20px;
