@@ -24,11 +24,8 @@
 
    </br>
    </br>
-   </br>
-   </br>
 
 ## Projects
-
 <!-- <a href="www.google.com"><img alt="Website" height = "40px"  src="https://img.shields.io/badge/-🧬%20My%20Website-000" /></a> &nbsp;-->
 <a href="https://github.com/FranklinUmeObi/Field-Of-Vision-Dashboard"><img alt="FOV" height = "40px"  src="https://img.shields.io/badge/-📝%20Field%20Of%20Vision-000" /></a> &nbsp;
 <a href="https://github.com/varjakw/VancouverBusStopApp"><img alt="Bus Routes" height = "40px"  src="https://img.shields.io/badge/-📝%20Bus%20Routes-000" /></a> &nbsp;
@@ -36,10 +33,6 @@
 <a href="https://github.com/varjakw/PrologDCG"><img alt="DCG" height = "40px"  src="https://img.shields.io/badge/-📚%20Prolog%20DCG-000" /></a> &nbsp;
 <a href="https://github.com/varjakw/FriedmanMethod"><img alt="Website" height = "40px"  src="https://img.shields.io/badge/-📐%20Friedmans%20Method-000" /></a> &nbsp;
 
-   
-  
-   </br>
-   </br>
    </br>
    </br>
  
