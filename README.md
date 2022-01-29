@@ -26,13 +26,14 @@
    </br>
    </br>
    </br>
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)]()
-[![](https://img.shields.io/badge/-🦠%20Github%20Visualisation-000)](https://github.com/varjakw/GithubVisualisation)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+   ## Primary Languages
+<!-- <a href="www.google.com"><img alt="Website" height = "40px"  src="https://img.shields.io/badge/-🧬%20My%20Website-000" /></a> &nbsp;-->
+<a href="https://github.com/FranklinUmeObi/Field-Of-Vision-Dashboard"><img alt="FOV" height = "40px"  src="https://img.shields.io/badge/-📝%20Field%20Of%20Vision-000" /></a> &nbsp;
+<a href="https://github.com/varjakw/VancouverBusStopApp"><img alt="Bus Routes" height = "40px"  src="https://img.shields.io/badge/-📝%20Bus%20Routes-000" /></a> &nbsp;
+<a href="https://github.com/varjakw/GithubVisualisation"><img alt="Git Vis" height = "40px"  src="https://img.shields.io/badge/-📈%20Github%20Visualisation-000" /></a> &nbsp;
+<a href="https://github.com/varjakw/PrologDCG"><img alt="DCG" height = "40px"  src="https://img.shields.io/badge/-📚%20Prolog%20DCG-000" /></a> &nbsp;
+<a href="https://github.com/varjakw/FriedmanMethod"><img alt="Website" height = "40px"  src="https://img.shields.io/badge/-📐%20Friedmans%20Method-000" /></a> &nbsp;
+
    
   
    </br>
