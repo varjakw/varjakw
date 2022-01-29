@@ -1,8 +1,8 @@
 # Hello! It's me!
 <div align="left">
 	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	<a href="https://github.com/varjakw/varjakw/blob/main/bio.svg">
+		<img src="bio.svg" width="800" height="400">
 	</a>
 	<br>
 </div>
