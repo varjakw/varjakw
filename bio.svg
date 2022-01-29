@@ -2,6 +2,7 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
+				
 				.container {
 					font-family:
 						system-ui,
@@ -25,10 +26,10 @@
 					background-clip: text;
 					color: red;
 					text-align: center;
-					-webkit-background-clip: text;
-    					-moz-background-clip: text;
-    					-webkit-text-fill-color: transparent; 
-  					-moz-text-fill-color: transparent;
+				-webkit-background-clip: text;
+    				-moz-background-clip: text;
+    				-webkit-text-fill-color: transparent; 
+  				-moz-text-fill-color: transparent;
 				}
 
 				h1 {
@@ -45,7 +46,8 @@
 			<div class="container">
 				<h1>My name is Varjak and I'm currently in 3rd year Computer Science @ TCD!<br/>
 My (current) interests are game development, cryptography and,<br/>
-like, literally anything to do with Python</h1>
+like, literally anything to do with Python</h1><p> &#128013;</p>
+			</div>
 		</div>
 	</foreignObject>
 </svg>
