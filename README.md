@@ -10,6 +10,7 @@
 <a href="mailto:vwolfe@tcd.ie"><img alt="Email" height = "40px"  src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/varjakw"><img alt="Instagram" height = "40px"  src="https://img.shields.io/badge/-@varjakw_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 </br>
+
 ## Languages and Tools
   <a href=""><img alt="Python" src="https://img.shields.io/badge/-Python-B95FFF?style=flat-square&logo=python&logoColor=white" /></a> &nbsp;
   <a href=""><img alt="Java" src="https://img.shields.io/badge/-Java-80B2FF?style=flat-square&logo=java&logoColor=white" /></a> &nbsp;
@@ -26,6 +27,7 @@
   <a href=""><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-EC6C5F?style=flat-square&logo=Node.js&logoColor=white" /></a> &nbsp;
 </p>
    </br>
+   
 ## Projects
 <!-- <a href="www.google.com"><img alt="Website" height = "40px"  src="https://img.shields.io/badge/-🧬%20My%20Website-000" /></a> &nbsp;-->
 <a href="https://github.com/FranklinUmeObi/Field-Of-Vision-Dashboard"><img alt="FOV" height = "40px"  src="https://img.shields.io/badge/-📝%20Field%20Of%20Vision-000" /></a> &nbsp;
@@ -33,6 +35,8 @@
 <a href="https://github.com/varjakw/GithubVisualisation"><img alt="Git Vis" height = "40px"  src="https://img.shields.io/badge/-📈%20Github%20Visualisation-000" /></a> &nbsp;
 <a href="https://github.com/varjakw/PrologDCG"><img alt="DCG" height = "40px"  src="https://img.shields.io/badge/-📚%20Prolog%20DCG-000" /></a> &nbsp;
 <a href="https://github.com/varjakw/FriedmanMethod"><img alt="Website" height = "40px"  src="https://img.shields.io/badge/-📐%20Friedmans%20Method-000" /></a> &nbsp;
+
+
 
    </br>
    </br>
