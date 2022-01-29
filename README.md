@@ -6,7 +6,7 @@
 
 
 ## Socials
-<a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
+<!-- <a href="" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a> -->
 <a href="https://www.linkedin.com/in/varjak/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/varjakw/varjakw/blob/main/linkedin.svg" />
 <a href="https://instagram.com/varjakw" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/varjakw/varjakw/blob/main/insta.svg" />
 </a>
