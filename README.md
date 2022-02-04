@@ -19,8 +19,8 @@
    <a href=""><img alt="SQL" src="https://img.shields.io/badge/-SQL-EEFC4E?style=flat-square&logo=SQL&logoColor=white" /></a> &nbsp;
   <a href=""><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-FFDA4D?style=flat-square&logo=PyCharm&logoColor=white" /></a> &nbsp;
   <a href=""><img alt="html5" src="https://img.shields.io/badge/-HTML5-FEC24E?style=flat-square&logo=html5&logoColor=white" /></a> &nbsp;
-  <a href=""><img alt="eclipse" src="https://img.shields.io/badge/-eclipse-F8A354?style=flat-square&logo=eclipse&logoColor=white" /></a> &nbsp;
-   <a href=""><img alt="intellij" src="https://img.shields.io/badge/-intellij-F8A354?style=flat-square&logo=JetBrains&logoColor=white" /></a> &nbsp;
+  <a href=""><img alt="eclipse" src="https://img.shields.io/badge/-Eclipse-F8A354?style=flat-square&logo=eclipse&logoColor=white" /></a> &nbsp;
+   <a href=""><img alt="intellij" src="https://img.shields.io/badge/-IntelliJ-F8A354?style=flat-square&logo=JetBrains&logoColor=white" /></a> &nbsp;
    <a href=""><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-F38D58?style=flat-square&logo=mongodb&logoColor=white" /></a> &nbsp;
   <a href=""><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-EC6C5F?style=flat-square&logo=Node.js&logoColor=white" /></a> &nbsp;
 </p>
