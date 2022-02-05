@@ -1,8 +1,8 @@
 # Hello! It's me!
 |           |            | 
 |----------|:-------------:|
-| <img src="https://github.com/varjakw/varjakw/blob/main/bio.svg" width="480" height="270" /> |  <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width="480" height="270" /> |
-| <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width="480" height="270" />  |  <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width="480" height="270" /> |
+| <img src="https://github.com/varjakw/varjakw/blob/main/bio.svg" width=100% height=100%  /> |  <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width=100% height=100% /> |
+| <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width=100% height=100% />  |  <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width=100% height=100% /> |
 
 ## Socials
 <a href="https://www.linkedin.com/in/varjak/"><img alt="LinkedIn" height = "40px" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
