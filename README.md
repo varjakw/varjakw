@@ -51,3 +51,6 @@
   https://user-images.githubusercontent.com/78870995/152620687-6abb5830-bd0a-494d-8d10-8ccd3216fe65.mp4
 <!-- <a href=""><img alt="followers" src="https://img.shields.io/github/followers/varjakw?style=for-the-badge" /></a> &nbsp; -->
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
