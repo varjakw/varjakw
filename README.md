@@ -32,8 +32,8 @@
 <a href="https://varjakw.github.io/RSA/"><img alt="RSA" height = "40px"  src="https://img.shields.io/badge/-🔒%20RSA-000" /></a> &nbsp;
 
 <a href="https://github.com/varjakw/GithubVisualisation"><img alt="Git Vis" height = "40px"  src="https://img.shields.io/badge/-📈%20Github%20Visualisation-000" /></a> &nbsp;
-<a href="https://github.com/varjakw/PrologDCG"><img alt="DCG" height = "40px"  src="https://img.shields.io/badge/-📚%20Prolog%20DCG-000" /></a> &nbsp;
-<a href="https://github.com/varjakw/FriedmanMethod"><img alt="Friedman" height = "40px"  src="https://img.shields.io/badge/-📐%20Friedmans%20Method-000" /></a> &nbsp;
+<a href="https://github.com/Level-1-Developer/CSU33013-Project"><img alt="DCG" height = "40px"  src="https://img.shields.io/badge/-📚%20Dell-000" /></a> &nbsp;
+<a href="https://github.com/varjakw/CheckerVision"><img alt="Friedman" height = "40px"  src="https://img.shields.io/badge/-📐%20Checker%20Vision-000" /></a> &nbsp;
 <a href="https://github.com/varjakw/QRGenerator"><img alt="QR" height = "40px"  src="https://img.shields.io/badge/-🔳%20QR%20Generator-000" /></a> &nbsp;
 
 
