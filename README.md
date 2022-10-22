@@ -34,6 +34,8 @@
 <a href="https://github.com/Level-1-Developer/CSU33013-Project"><img alt="DCG" height = "40px"  src="https://img.shields.io/badge/-📚%20Dell-000" /></a> &nbsp;
 <a href="https://github.com/varjakw/CheckerVision"><img alt="Friedman" height = "40px"  src="https://img.shields.io/badge/-📐%20Checker%20Vision-000" /></a> &nbsp;
 <a href="https://github.com/varjakw/QRGenerator"><img alt="QR" height = "40px"  src="https://img.shields.io/badge/-🔳%20QR%20Generator-000" /></a> &nbsp;
+<a href="https://github.com/varjakw/Forecaster"><img alt="QR" height = "40px"  src="https://img.shields.io/badge/-:umbrella:%20Forecaster-000" /></a> &nbsp;
+
 
 
 
