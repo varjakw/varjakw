@@ -30,10 +30,10 @@
 <a href="https://github.com/varjakw/VancouverBusStopApp"><img alt="Bus Routes" height = "40px"  src="https://img.shields.io/badge/-📝%20Bus%20Routes-000" /></a> &nbsp;
 <a href="https://varjakw.github.io/RSA/"><img alt="RSA" height = "40px"  src="https://img.shields.io/badge/-🔒%20RSA-000" /></a> &nbsp;
 
-<a href="https://github.com/varjakw/GithubVisualisation"><img alt="Git Vis" height = "40px"  src="https://img.shields.io/badge/-📈%20Github%20Visualisation-000" /></a> &nbsp;
+<a href="https://github.com/ryanting01/FreeBee"><img alt="Git Vis" height = "40px"  src="https://img.shields.io/badge/-🐝%20FreeBee-000" /></a> &nbsp;
 <a href="https://github.com/Level-1-Developer/CSU33013-Project"><img alt="DCG" height = "40px"  src="https://img.shields.io/badge/-📚%20Dell-000" /></a> &nbsp;
 <a href="https://github.com/varjakw/CheckerVision"><img alt="Friedman" height = "40px"  src="https://img.shields.io/badge/-📐%20Checker%20Vision-000" /></a> &nbsp;
-<a href="https://github.com/varjakw/QRGenerator"><img alt="QR" height = "40px"  src="https://img.shields.io/badge/-🔳%20QR%20Generator-000" /></a> &nbsp;
+<a href="https://github.com/varjakw/TEAS"><img alt="QR" height = "40px"  src="https://img.shields.io/badge/-🔳%20TEAS-000" /></a> &nbsp;
 <a href="https://github.com/varjakw/Forecaster"><img alt="QR" height = "40px"  src="https://img.shields.io/badge/-☔%20Forecaster-000" /></a> &nbsp;
 
 
