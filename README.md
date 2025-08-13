@@ -1,8 +1,8 @@
 # Hello! It's me!
 |           |            | 
 |----------|:-------------:|
-<!-- 
-| <img src="https://github.com/varjakw/varjakw/blob/main/bio.svg" width=100% height=100%  /> |  <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width=100% height=100% /> | -->
+
+| | 
 | <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width=100% height=100% />  |  <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width=100% height=100% /> |
 
 <!--
