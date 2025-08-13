@@ -1,12 +1,15 @@
 # Hello! It's me!
 |           |            | 
 |----------|:-------------:|
-| <img src="https://github.com/varjakw/varjakw/blob/main/bio.svg" width=100% height=100%  /> |  <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width=100% height=100% /> |
+<!-- 
+| <img src="https://github.com/varjakw/varjakw/blob/main/bio.svg" width=100% height=100%  /> |  <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width=100% height=100% /> | -->
 | <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width=100% height=100% />  |  <img src="https://github.com/varjakw/varjakw/blob/main/final-space-kiss-face.gif" width=100% height=100% /> |
 
+<!--
 ## Socials
 <a href="https://www.linkedin.com/in/varjak/"><img alt="LinkedIn" height = "40px" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:vwolfe@tcd.ie"><img alt="Email" height = "40px"  src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white" /></a> &nbsp;
+-->
 
 ## Languages and Tools
   <a href=""><img alt="Python" src="https://img.shields.io/badge/-Python-B95FFF?style=flat-square&logo=python&logoColor=white" /></a> &nbsp;
